@@ -1,0 +1,32 @@
+{
+  "name": "angular-openaura",
+  "version": "0.1.0",
+  "authors": [
+    "Cameron J Roe <cameronjroe@gmail.com>"
+  ],
+  "description": "Angular Service to connect to OpenAura API",
+  "main": "./dist/angular-openaura.min.js",
+  "keywords": [
+    "openaura",
+    "angular",
+    "angularjs",
+    "music"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/cameronjroe/angular-openaura",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.2",
+    "jasmine-jquery": "~2.0.5"
+  }
+}

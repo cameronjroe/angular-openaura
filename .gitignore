@@ -1,0 +1,5 @@
+.DS_Store
+test/coverage
+bower_components
+node_modules
+.tmp

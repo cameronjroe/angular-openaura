@@ -1,0 +1,40 @@
+{
+  "name": "angular-openaura",
+  "version": "0.1.0",
+  "description": "Angular Service to connect to OpenAura API",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-karma": "^0.9.0",
+    "jshint-stylish": "^1.0.0",
+    "karma": "^0.12.24",
+    "karma-jasmine": "^0.2.3",
+    "load-grunt-tasks": "^1.0.0",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronjroe/angular-openaura.git"
+  },
+  "keywords": [
+    "openaura",
+    "angular",
+    "angularjs",
+    "music"
+  ],
+  "author": "Cameron J Roe <cameronjroe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronjroe/angular-openaura/issues"
+  },
+  "homepage": "https://github.com/cameronjroe/angular-openaura"
+}
