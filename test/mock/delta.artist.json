@@ -1,0 +1,521 @@
+{
+  "timestamp": "2014-11-14T05:28:31.600Z",
+  "anchor_deltas": [
+    {
+      "anchor_id": "5299180de4b0bd2cefcc50b7",
+      "timestamp": "2014-11-04T23:13:50.517Z"
+    },
+    {
+      "anchor_id": "529919afe4b0bd2cefcdf8c4",
+      "timestamp": "2014-11-11T05:49:27.071Z"
+    },
+    {
+      "anchor_id": "5299238be4b0bd2cefd74c0a",
+      "timestamp": "2014-11-11T07:01:29.388Z"
+    },
+    {
+      "anchor_id": "52992282e4b0bd2cefd65910",
+      "timestamp": "2014-11-02T08:52:09.240Z"
+    },
+    {
+      "anchor_id": "5299183be4b0bd2cefcc7c89",
+      "timestamp": "2014-11-02T09:01:43.705Z"
+    },
+    {
+      "anchor_id": "52991c7be4b0bd2cefd0bf6a",
+      "timestamp": "2014-11-02T09:49:06.233Z"
+    },
+    {
+      "anchor_id": "5299205ae4b0bd2cefd46da0",
+      "timestamp": "2014-11-02T10:55:02.873Z"
+    },
+    {
+      "anchor_id": "52992327e4b0bd2cefd6ef36",
+      "timestamp": "2014-11-02T10:59:02.599Z"
+    },
+    {
+      "anchor_id": "52992187e4b0bd2cefd57719",
+      "timestamp": "2014-11-02T14:02:54.413Z"
+    },
+    {
+      "anchor_id": "52991b5ee4b0bd2cefcfa0d0",
+      "timestamp": "2014-11-02T14:03:28.559Z"
+    },
+    {
+      "anchor_id": "529917a8e4b0bd2cefcbee52",
+      "timestamp": "2014-11-02T14:17:18.449Z"
+    },
+    {
+      "anchor_id": "529917abe4b0bd2cefcbf0e9",
+      "timestamp": "2014-11-02T14:36:03.169Z"
+    },
+    {
+      "anchor_id": "529920c0e4b0bd2cefd4c41d",
+      "timestamp": "2014-11-02T14:53:11.757Z"
+    },
+    {
+      "anchor_id": "5299230be4b0bd2cefd6d994",
+      "timestamp": "2014-11-02T15:34:59.032Z"
+    },
+    {
+      "anchor_id": "52991b4ae4b0bd2cefcf8fd5",
+      "timestamp": "2014-11-02T16:02:52.802Z"
+    },
+    {
+      "anchor_id": "5299223de4b0bd2cefd61d15",
+      "timestamp": "2014-11-04T03:48:22.470Z"
+    },
+    {
+      "anchor_id": "52991806e4b0bd2cefcc495c",
+      "timestamp": "2014-11-04T03:49:14.436Z"
+    },
+    {
+      "anchor_id": "529918d2e4b0bd2cefcd0fef",
+      "timestamp": "2014-11-04T03:49:29.460Z"
+    },
+    {
+      "anchor_id": "52991db9e4b0bd2cefd1f1dc",
+      "timestamp": "2014-11-04T03:49:40.859Z"
+    },
+    {
+      "anchor_id": "52991981e4b0bd2cefcdc855",
+      "timestamp": "2014-11-04T03:50:11.542Z"
+    },
+    {
+      "anchor_id": "52991bf9e4b0bd2cefd03c3d",
+      "timestamp": "2014-11-04T03:50:14.803Z"
+    },
+    {
+      "anchor_id": "529922bee4b0bd2cefd6902f",
+      "timestamp": "2014-11-04T03:50:25.193Z"
+    },
+    {
+      "anchor_id": "529922cae4b0bd2cefd69dcf",
+      "timestamp": "2014-11-04T03:50:35.308Z"
+    },
+    {
+      "anchor_id": "52991a82e4b0bd2cefcec761",
+      "timestamp": "2014-11-04T03:50:38.037Z"
+    },
+    {
+      "anchor_id": "5299227ce4b0bd2cefd65207",
+      "timestamp": "2014-11-04T04:06:58.587Z"
+    },
+    {
+      "anchor_id": "52991a36e4b0bd2cefce7c5d",
+      "timestamp": "2014-11-04T04:08:52.969Z"
+    },
+    {
+      "anchor_id": "529918dbe4b0bd2cefcd19c3",
+      "timestamp": "2014-11-04T04:09:59.716Z"
+    },
+    {
+      "anchor_id": "52991b5de4b0bd2cefcf9f19",
+      "timestamp": "2014-11-04T04:11:15.059Z"
+    },
+    {
+      "anchor_id": "529919c0e4b0bd2cefce08c2",
+      "timestamp": "2014-11-04T04:11:19.074Z"
+    },
+    {
+      "anchor_id": "52991828e4b0bd2cefcc6cb9",
+      "timestamp": "2014-11-04T04:21:41.836Z"
+    },
+    {
+      "anchor_id": "529923d2e4b0bd2cefd78af5",
+      "timestamp": "2014-11-04T04:24:56.036Z"
+    },
+    {
+      "anchor_id": "52991930e4b0bd2cefcd748f",
+      "timestamp": "2014-11-04T04:53:40.656Z"
+    },
+    {
+      "anchor_id": "529922ebe4b0bd2cefd6bc5a",
+      "timestamp": "2014-11-04T05:23:04.728Z"
+    },
+    {
+      "anchor_id": "52991a3ce4b0bd2cefce82f0",
+      "timestamp": "2014-11-04T05:28:50.305Z"
+    },
+    {
+      "anchor_id": "52991c1fe4b0bd2cefd060d0",
+      "timestamp": "2014-11-04T05:39:44.306Z"
+    },
+    {
+      "anchor_id": "52991bede4b0bd2cefd02ff5",
+      "timestamp": "2014-11-04T05:43:28.907Z"
+    },
+    {
+      "anchor_id": "529918cce4b0bd2cefcd0a0b",
+      "timestamp": "2014-11-04T05:48:50.898Z"
+    },
+    {
+      "anchor_id": "52991eeee4b0bd2cefd30f2a",
+      "timestamp": "2014-11-04T06:05:24.340Z"
+    },
+    {
+      "anchor_id": "529921cfe4b0bd2cefd5bacf",
+      "timestamp": "2014-11-04T06:05:54.747Z"
+    },
+    {
+      "anchor_id": "52991d73e4b0bd2cefd1afd3",
+      "timestamp": "2014-11-04T06:16:03.628Z"
+    },
+    {
+      "anchor_id": "52991fd3e4b0bd2cefd3e939",
+      "timestamp": "2014-11-04T06:16:07.760Z"
+    },
+    {
+      "anchor_id": "52991d87e4b0bd2cefd1c25d",
+      "timestamp": "2014-11-04T06:16:13.493Z"
+    },
+    {
+      "anchor_id": "52991a0ce4b0bd2cefce5156",
+      "timestamp": "2014-11-04T06:25:21.417Z"
+    },
+    {
+      "anchor_id": "52991afee4b0bd2cefcf45a5",
+      "timestamp": "2014-11-04T06:40:10.621Z"
+    },
+    {
+      "anchor_id": "52992284e4b0bd2cefd65a6c",
+      "timestamp": "2014-11-04T06:43:18.643Z"
+    },
+    {
+      "anchor_id": "529918efe4b0bd2cefcd2ee2",
+      "timestamp": "2014-11-04T06:48:23.421Z"
+    },
+    {
+      "anchor_id": "52991e48e4b0bd2cefd26d7f",
+      "timestamp": "2014-11-04T06:59:36.448Z"
+    },
+    {
+      "anchor_id": "52991d62e4b0bd2cefd19eb3",
+      "timestamp": "2014-11-04T07:06:23.443Z"
+    },
+    {
+      "anchor_id": "52991fbfe4b0bd2cefd3d84b",
+      "timestamp": "2014-11-04T07:08:20.368Z"
+    },
+    {
+      "anchor_id": "529920bae4b0bd2cefd4c126",
+      "timestamp": "2014-11-04T07:22:11.228Z"
+    },
+    {
+      "anchor_id": "52991b69e4b0bd2cefcfac6b",
+      "timestamp": "2014-11-04T07:22:59.057Z"
+    },
+    {
+      "anchor_id": "5299196ae4b0bd2cefcdb069",
+      "timestamp": "2014-11-04T08:04:31.745Z"
+    },
+    {
+      "anchor_id": "5299232fe4b0bd2cefd6f80d",
+      "timestamp": "2014-11-04T10:37:30.253Z"
+    },
+    {
+      "anchor_id": "52991840e4b0bd2cefcc81cd",
+      "timestamp": "2014-11-04T18:47:52.104Z"
+    },
+    {
+      "anchor_id": "52991ffde4b0bd2cefd414b2",
+      "timestamp": "2014-11-04T20:28:28.124Z"
+    },
+    {
+      "anchor_id": "52991d55e4b0bd2cefd19101",
+      "timestamp": "2014-11-04T23:28:42.031Z"
+    },
+    {
+      "anchor_id": "52991a13e4b0bd2cefce5835",
+      "timestamp": "2014-11-05T00:23:32.499Z"
+    },
+    {
+      "anchor_id": "5299192ce4b0bd2cefcd7117",
+      "timestamp": "2014-11-05T00:52:57.735Z"
+    },
+    {
+      "anchor_id": "52991a3be4b0bd2cefce81c3",
+      "timestamp": "2014-11-05T01:06:05.508Z"
+    },
+    {
+      "anchor_id": "52991c1be4b0bd2cefd05f42",
+      "timestamp": "2014-11-05T01:24:37.902Z"
+    },
+    {
+      "anchor_id": "52991f05e4b0bd2cefd3283e",
+      "timestamp": "2014-11-05T01:24:41.182Z"
+    },
+    {
+      "anchor_id": "52992075e4b0bd2cefd485c7",
+      "timestamp": "2014-11-05T02:17:55.703Z"
+    },
+    {
+      "anchor_id": "52991957e4b0bd2cefcd9cab",
+      "timestamp": "2014-11-05T02:18:21.366Z"
+    },
+    {
+      "anchor_id": "529918d6e4b0bd2cefcd147d",
+      "timestamp": "2014-11-05T02:23:51.274Z"
+    },
+    {
+      "anchor_id": "5429c5c6e4b0a3840353058a",
+      "timestamp": "2014-11-05T02:33:38.509Z"
+    },
+    {
+      "anchor_id": "529921f9e4b0bd2cefd5e0aa",
+      "timestamp": "2014-11-05T02:36:28.702Z"
+    },
+    {
+      "anchor_id": "52991bd6e4b0bd2cefd0180e",
+      "timestamp": "2014-11-05T02:38:58.828Z"
+    },
+    {
+      "anchor_id": "52991feee4b0bd2cefd40511",
+      "timestamp": "2014-11-05T02:49:27.547Z"
+    },
+    {
+      "anchor_id": "529922eee4b0bd2cefd6c029",
+      "timestamp": "2014-11-05T02:49:27.691Z"
+    },
+    {
+      "anchor_id": "52991fe8e4b0bd2cefd3ff10",
+      "timestamp": "2014-11-05T02:49:27.782Z"
+    },
+    {
+      "anchor_id": "52991c2ae4b0bd2cefd06c8d",
+      "timestamp": "2014-11-05T03:19:20.851Z"
+    },
+    {
+      "anchor_id": "52991760e4b0bd2cefcba2b9",
+      "timestamp": "2014-11-05T03:19:20.984Z"
+    },
+    {
+      "anchor_id": "529919f0e4b0bd2cefce3927",
+      "timestamp": "2014-11-05T03:36:58.848Z"
+    },
+    {
+      "anchor_id": "52991abfe4b0bd2cefcf0566",
+      "timestamp": "2014-11-05T03:36:59.008Z"
+    },
+    {
+      "anchor_id": "529923e7e4b0bd2cefd79ef0",
+      "timestamp": "2014-11-05T03:41:43.021Z"
+    },
+    {
+      "anchor_id": "52991c5ee4b0bd2cefd0a009",
+      "timestamp": "2014-11-05T03:50:17.312Z"
+    },
+    {
+      "anchor_id": "529922f8e4b0bd2cefd6caad",
+      "timestamp": "2014-11-05T04:02:54.199Z"
+    },
+    {
+      "anchor_id": "529917fde4b0bd2cefcc3ffa",
+      "timestamp": "2014-11-05T04:03:30.544Z"
+    },
+    {
+      "anchor_id": "529923bce4b0bd2cefd777f7",
+      "timestamp": "2014-11-05T04:19:29.496Z"
+    },
+    {
+      "anchor_id": "52991e32e4b0bd2cefd25a54",
+      "timestamp": "2014-11-05T04:24:18.793Z"
+    },
+    {
+      "anchor_id": "529917c4e4b0bd2cefcc0d05",
+      "timestamp": "2014-11-05T04:36:56.535Z"
+    },
+    {
+      "anchor_id": "52991896e4b0bd2cefccd3ef",
+      "timestamp": "2014-11-05T04:44:21.659Z"
+    },
+    {
+      "anchor_id": "5299211ae4b0bd2cefd51cd2",
+      "timestamp": "2014-11-05T05:42:31.151Z"
+    },
+    {
+      "anchor_id": "529921dbe4b0bd2cefd5c840",
+      "timestamp": "2014-11-05T06:04:56.287Z"
+    },
+    {
+      "anchor_id": "52992398e4b0bd2cefd755bc",
+      "timestamp": "2014-11-05T06:04:59.310Z"
+    },
+    {
+      "anchor_id": "52991a03e4b0bd2cefce472b",
+      "timestamp": "2014-11-05T06:23:07.842Z"
+    },
+    {
+      "anchor_id": "5299228fe4b0bd2cefd666a2",
+      "timestamp": "2014-11-05T06:53:26.188Z"
+    },
+    {
+      "anchor_id": "52991ddbe4b0bd2cefd21245",
+      "timestamp": "2014-11-05T07:20:31.455Z"
+    },
+    {
+      "anchor_id": "5299217ce4b0bd2cefd56ebd",
+      "timestamp": "2014-11-05T07:39:40.422Z"
+    },
+    {
+      "anchor_id": "529920d6e4b0bd2cefd4d8bf",
+      "timestamp": "2014-11-05T07:50:54.533Z"
+    },
+    {
+      "anchor_id": "52992144e4b0bd2cefd5423a",
+      "timestamp": "2014-11-05T18:24:58.943Z"
+    },
+    {
+      "anchor_id": "52992087e4b0bd2cefd494de",
+      "timestamp": "2014-11-06T00:33:28.956Z"
+    },
+    {
+      "anchor_id": "52992067e4b0bd2cefd47696",
+      "timestamp": "2014-11-07T01:26:51.573Z"
+    },
+    {
+      "anchor_id": "52992063e4b0bd2cefd4727b",
+      "timestamp": "2014-11-07T01:26:59.205Z"
+    },
+    {
+      "anchor_id": "5299204be4b0bd2cefd45c5f",
+      "timestamp": "2014-11-07T01:48:30.439Z"
+    },
+    {
+      "anchor_id": "52992042e4b0bd2cefd456b0",
+      "timestamp": "2014-11-07T01:54:01.016Z"
+    },
+    {
+      "anchor_id": "5299203ee4b0bd2cefd45320",
+      "timestamp": "2014-11-07T01:56:08.105Z"
+    },
+    {
+      "anchor_id": "5299203be4b0bd2cefd450b5",
+      "timestamp": "2014-11-07T02:00:34.793Z"
+    },
+    {
+      "anchor_id": "5299200ee4b0bd2cefd422b2",
+      "timestamp": "2014-11-07T15:54:44.071Z"
+    },
+    {
+      "anchor_id": "52991feee4b0bd2cefd405db",
+      "timestamp": "2014-11-07T20:21:03.039Z"
+    },
+    {
+      "anchor_id": "52991ff5e4b0bd2cefd40d66",
+      "timestamp": "2014-11-07T20:33:50.583Z"
+    },
+    {
+      "anchor_id": "52991fe1e4b0bd2cefd3f770",
+      "timestamp": "2014-11-07T20:37:52.051Z"
+    },
+    {
+      "anchor_id": "52991fdae4b0bd2cefd3eeb3",
+      "timestamp": "2014-11-07T20:50:26.685Z"
+    },
+    {
+      "anchor_id": "52991fc9e4b0bd2cefd3e37e",
+      "timestamp": "2014-11-07T21:07:05.017Z"
+    },
+    {
+      "anchor_id": "52991fc5e4b0bd2cefd3df2e",
+      "timestamp": "2014-11-07T21:07:11.971Z"
+    },
+    {
+      "anchor_id": "52991fb7e4b0bd2cefd3d0e9",
+      "timestamp": "2014-11-07T21:34:03.706Z"
+    },
+    {
+      "anchor_id": "52991fa3e4b0bd2cefd3ba99",
+      "timestamp": "2014-11-07T21:50:33.972Z"
+    },
+    {
+      "anchor_id": "52991f9ae4b0bd2cefd3b0db",
+      "timestamp": "2014-11-07T22:20:51.032Z"
+    },
+    {
+      "anchor_id": "52991f7ae4b0bd2cefd39147",
+      "timestamp": "2014-11-07T22:47:23.218Z"
+    },
+    {
+      "anchor_id": "52991f76e4b0bd2cefd38ccd",
+      "timestamp": "2014-11-07T22:47:30.416Z"
+    },
+    {
+      "anchor_id": "52991f88e4b0bd2cefd3a0e6",
+      "timestamp": "2014-11-07T22:47:31.099Z"
+    },
+    {
+      "anchor_id": "52991f71e4b0bd2cefd3876c",
+      "timestamp": "2014-11-07T23:35:25.840Z"
+    },
+    {
+      "anchor_id": "52991f60e4b0bd2cefd378d3",
+      "timestamp": "2014-11-08T08:09:26.201Z"
+    },
+    {
+      "anchor_id": "52991f5be4b0bd2cefd3739d",
+      "timestamp": "2014-11-08T19:12:23.719Z"
+    },
+    {
+      "anchor_id": "52991f33e4b0bd2cefd3519a",
+      "timestamp": "2014-11-08T21:48:43.631Z"
+    },
+    {
+      "anchor_id": "52991f37e4b0bd2cefd356b2",
+      "timestamp": "2014-11-08T21:48:50.722Z"
+    },
+    {
+      "anchor_id": "52991f32e4b0bd2cefd35087",
+      "timestamp": "2014-11-08T21:50:25.819Z"
+    },
+    {
+      "anchor_id": "52991f31e4b0bd2cefd34f91",
+      "timestamp": "2014-11-08T21:50:35.231Z"
+    },
+    {
+      "anchor_id": "52991f27e4b0bd2cefd34827",
+      "timestamp": "2014-11-08T21:54:30.720Z"
+    },
+    {
+      "anchor_id": "52991f0ce4b0bd2cefd32e38",
+      "timestamp": "2014-11-08T22:19:44.440Z"
+    },
+    {
+      "anchor_id": "52991ed5e4b0bd2cefd2f947",
+      "timestamp": "2014-11-08T22:48:34.806Z"
+    },
+    {
+      "anchor_id": "52991ec2e4b0bd2cefd2e481",
+      "timestamp": "2014-11-08T23:19:02.630Z"
+    },
+    {
+      "anchor_id": "52991ebce4b0bd2cefd2e0fa",
+      "timestamp": "2014-11-08T23:19:04.798Z"
+    },
+    {
+      "anchor_id": "52991eb8e4b0bd2cefd2dd48",
+      "timestamp": "2014-11-08T23:30:51.363Z"
+    },
+    {
+      "anchor_id": "52991ea5e4b0bd2cefd2c8ea",
+      "timestamp": "2014-11-08T23:39:33.661Z"
+    },
+    {
+      "anchor_id": "52991e8de4b0bd2cefd2b28e",
+      "timestamp": "2014-11-09T15:29:21.921Z"
+    },
+    {
+      "anchor_id": "52991f27e4b0bd2cefd347c4",
+      "timestamp": "2014-11-10T15:25:46.991Z"
+    },
+    {
+      "anchor_id": "537fc037e4b0002a0870f7f5",
+      "timestamp": "2014-11-10T15:49:24.517Z"
+    },
+    {
+      "anchor_id": "53179ba4e4b0410c6d58f2ce",
+      "timestamp": "2014-11-11T06:59:03.434Z"
+    }
+  ]
+}

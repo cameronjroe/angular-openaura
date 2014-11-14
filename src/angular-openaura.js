@@ -10,7 +10,8 @@
             settings.apiKey = null;
 
             this.setApiKey = function (key) {
-                return settings.apiKey = key;
+                settings.apiKey = key;
+                return settings.apiKey;
             };
 
             this.getApiKey = function () {
@@ -82,11 +83,13 @@
 
                 OpenAura.prototype.getArtistParticle = function(id, params) {
                     var options = {};
-                    var params = params || {};
                     if (params) {
+                        params.id_type = params.idType || this.defaultIdType;
+                        delete params.idType;
                         angular.extend(options, params);
+                    } else {
+                        options.id_type = this.defaultIdType;
                     }
-                    options.id_type = params.idType || this.defaultIdType;
 
                     return this.api('/particles/artists/' + id,'GET', options);
                 };
@@ -98,22 +101,52 @@
                     return this.api('/particles/particle/' + particleId, 'GET', options);
                 };
 
-                OpenAura.prototype.getSourceParticle = function() {
-                    
+                OpenAura.prototype.getSourceParticle = function(sourceId, idType) {
+                    var options = {};
+                    options.id_type = idType || 'oa:source_id';
+
+                    return this.api('/particles/sources/' + sourceId, 'GET', options);
                 };
 
-                OpenAura.prototype.getArtistInfo = function() {
+                OpenAura.prototype.getArtistInfo = function(id, params) {
+                    var options = {};
+                    if (params) {
+                        params.id_type = params.idType || 'oa:artist_id';
+                        delete params.idType;
+                        angular.extend(options, params);
+                    } else {
+                        options.id_type = 'oa:artist_id';
+                    }
+
+                    return this.api('/info/artists/' + id, 'GET', options);
                 };
 
-                OpenAura.prototype.getArtistDelta = function() {
-                    
+                OpenAura.prototype.getArtistDelta = function(options) {
+                    if (!options) {
+                        console.warn('pass since_time or seconds_ago paramaters');
+                    }
+
+                    return this.api('/delta/artist_info', 'GET', options);
                 };
 
-                OpenAura.prototype.searchArtistParticles = function() {
+                OpenAura.prototype.searchArtistParticles = function(q, params) {
+                    var options = {};
+                    options.q = q;
+                    if (params) {
+                        angular.extend(options, params);
+                    }
+
+                    return this.api('/search/artists', 'GET', options);
                 };
 
-                OpenAura.prototype.searchAllArtists = function () {
+                OpenAura.prototype.searchAllArtists = function (q, params) {
+                    var options = {};
+                    options.q = q;
+                    if (params) {
+                        angular.extend(options, params);
+                    }
 
+                    return this.api('/search/artists_all', 'GET', options);
                 };
 
                 return new OpenAura();

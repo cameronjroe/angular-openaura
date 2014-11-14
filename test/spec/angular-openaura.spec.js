@@ -291,18 +291,95 @@ describe("angular-openaura", function() {
 
         describe("getSourceParticle()", function() {
             
+            it("should get a particle collection by source", function() {
+                
+                $httpBackend.when('GET', api + '/particles/sources/4998742?id_type=oa:source_id')
+                    .respond(getJSONFixture('particles.sources.json'));
+
+                OpenAura.getSourceParticle('4998742').then(function (res) {
+                    expect(res.particles.length).toBeGreaterThan(1);
+                });
+
+                $httpBackend.flush();
+
+            });
+
+        });
+
+        describe("getArtistInfo()", function() {
+           
+           it("should get artist info", function() {
+               
+                $httpBackend.when('GET', api + '/info/artists/47?id_type=oa:artist_id&with_sources=false')
+                    .respond(getJSONFixture('info.artists.json'));
+
+                OpenAura.getArtistInfo('47', {
+                    with_sources: false
+                }).then(function (res) {
+                    expect(res.fact_card).toBeDefined();
+                });
+
+                $httpBackend.flush();
+           });
+
+        });
+
+        describe("getArtistDelta()", function() {
+
+            it("should make a call to http://api.openaura.com/v1/delta/artist_info?since_time=2014-11-02", function() {
+                
+                $httpBackend.when('GET', api + '/delta/artist_info?since_time=2014-11-02')
+                    .respond(getJSONFixture('delta.artist.json'));
+
+                OpenAura.getArtistDelta({
+                    since_time: '2014-11-02'
+                }).then(function (res) {
+                    expect(res.anchor_deltas.length).toBeGreaterThan(2);
+                });
+
+                $httpBackend.flush();
+
+            });
 
         });
 
 
+        describe("searchArtistParticles()", function() {
+            
+            it("should return artists with particles", function() {
+                
+                $httpBackend.when('GET', api + '/search/artists?q=Calvin+Harris')
+                    .respond(getJSONFixture('search.calvin-harris.json'));
 
+                OpenAura.searchArtistParticles('Calvin Harris')
+                    .then(function (res) {
+                        expect(res.length).toBeGreaterThan(2);
+                        expect(res[0].name).toBe('Calvin Harris');
+                    });
 
+                $httpBackend.flush();
 
+            });
 
+        });
 
+        describe("searchAllArtists()", function() {
+            
+            it("should search for all artists in OA", function() {
+                    
+                $httpBackend.when('GET', api + '/search/artists_all?q=Calvin+Harris')
+                    .respond(getJSONFixture('search.artists-all.json'));
 
+                OpenAura.searchAllArtists('Calvin Harris').then(function (res) {
+                    expect(res.length).toBeGreaterThan(2);
+                    expect(res[0].name).toBe('Calvin Harris');
+                });
 
+                $httpBackend.flush();
 
+            });
+
+        });
 
     });
 
