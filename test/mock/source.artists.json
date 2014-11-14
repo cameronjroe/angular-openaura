@@ -1,0 +1,272 @@
+{
+    "total_sources": 14,
+    "sources": [{
+        "oa_source_id": 145,
+        "name": "taylorswift13",
+        "url": "https://twitter.com/taylorswift13",
+        "handle": "taylorswift13",
+        "uid": "17919972",
+        "profile_thumb_url": "http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl.jpeg",
+        "verified_account": false,
+        "oa_provider_id": 1,
+        "provider_name": "Twitter",
+        "provider_url": "http://twitter.com",
+        "provider_content_group": "other",
+        "follower_count": 46458055,
+        "original_posts_last_30_days": 429,
+        "particle_stats": {
+            "particle_count": 1075,
+            "text_count": 714,
+            "image_count": 361,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 4552117,
+        "name": "taylornation13",
+        "url": "https://twitter.com/taylornation13",
+        "handle": "taylornation13",
+        "uid": "80144576",
+        "profile_thumb_url": "http://pbs.twimg.com/profile_images/501481470976729088/DFY99SnV.jpeg",
+        "verified_account": false,
+        "oa_provider_id": 1,
+        "provider_name": "Twitter",
+        "provider_url": "http://twitter.com",
+        "provider_content_group": "other",
+        "follower_count": 589597,
+        "original_posts_last_30_days": 327,
+        "particle_stats": {
+            "particle_count": 828,
+            "text_count": 573,
+            "image_count": 255,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 146,
+        "name": "TaylorSwift",
+        "url": "https://www.facebook.com/TaylorSwift",
+        "handle": "TaylorSwift",
+        "uid": "19614945368",
+        "profile_thumb_url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p100x100/10628315_10152372244110369_1144691902671597803_n.jpg?oh=3ba05a0938868b78852b99337253d5f0&oe=54D970AB&__gda__=1423518522_b07da2a53bbb6ce4e7925703b4999afc",
+        "verified_account": false,
+        "oa_provider_id": 2,
+        "provider_name": "Facebook",
+        "provider_url": "http://facebook.com",
+        "provider_content_group": "other",
+        "follower_count": 71135046,
+        "original_posts_last_30_days": 101,
+        "particle_stats": {
+            "particle_count": 545,
+            "text_count": 0,
+            "image_count": 497,
+            "audio_count": 0,
+            "video_count": 48
+        }
+    }, {
+        "oa_source_id": 4552119,
+        "name": "taylorswift",
+        "url": "http://instagram.com/taylorswift",
+        "handle": "taylorswift",
+        "uid": "11830955",
+        "profile_thumb_url": "http://photos-f.ak.instagram.com/hphotos-ak-xfa1/10617008_540121486120445_1609281390_a.jpg",
+        "verified_account": false,
+        "oa_provider_id": 3,
+        "provider_name": "Instagram",
+        "provider_url": "http://instagram.com",
+        "provider_content_group": "other",
+        "follower_count": 13332291,
+        "original_posts_last_30_days": 54,
+        "particle_stats": {
+            "particle_count": 169,
+            "text_count": 0,
+            "image_count": 144,
+            "audio_count": 0,
+            "video_count": 25
+        }
+    }, {
+        "oa_source_id": 4552118,
+        "name": "taylorswiftvevo",
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "handle": "taylorswiftvevo",
+        "uid": "ANLZYMidaCbLQFWXBC95Jg",
+        "profile_thumb_url": "http://yt3.ggpht.com/-PS6pgnf-7pY/AAAAAAAAAAI/AAAAAAAAAAA/QCBjV6iZUBI/s88-c-k-no/photo.jpg",
+        "verified_account": false,
+        "oa_provider_id": 6,
+        "provider_name": "YouTube",
+        "provider_url": "http://youtube.com",
+        "provider_content_group": "other",
+        "follower_count": 9024730,
+        "original_posts_last_30_days": 1,
+        "particle_stats": {
+            "particle_count": 33,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 0,
+            "video_count": 33
+        }
+    }, {
+        "oa_source_id": 4765529,
+        "name": "taylorswift",
+        "url": "http://taylorswift.tumblr.com",
+        "handle": "taylorswift",
+        "uid": "taylorswift",
+        "profile_thumb_url": "http://33.media.tumblr.com/avatar_6a4cc6873fa3_64.png",
+        "verified_account": false,
+        "oa_provider_id": 7,
+        "provider_name": "Tumblr",
+        "provider_url": "http://tumblr.com",
+        "provider_content_group": "other",
+        "original_posts_last_30_days": 93,
+        "particle_stats": {
+            "particle_count": 201,
+            "text_count": 0,
+            "image_count": 201,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 4998742,
+        "name": "taylorswiftofficial",
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "handle": "taylorswiftofficial",
+        "uid": "11210864",
+        "profile_thumb_url": "https://i1.sndcdn.com/avatars-000113548546-wnbh4p-large.jpg",
+        "verified_account": false,
+        "oa_provider_id": 8,
+        "provider_name": "SoundCloud",
+        "provider_url": "http://soundcloud.com",
+        "provider_content_group": "other",
+        "follower_count": 276,
+        "original_posts_last_30_days": 19,
+        "particle_stats": {
+            "particle_count": 19,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 19,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 14333,
+        "name": "Cover Art",
+        "handle": "Cover Art",
+        "uid": "20244d07-534f-4eff-b4d4-930878889970",
+        "oa_provider_id": 10,
+        "provider_name": "MusicBrainz",
+        "provider_url": "http://musicbrainz.org",
+        "provider_content_group": "other",
+        "particle_stats": {
+            "particle_count": 13,
+            "text_count": 0,
+            "image_count": 13,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 4127445,
+        "name": "Taylor_Swift",
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "handle": "Taylor_Swift",
+        "uid": "5422144",
+        "profile_thumb_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/5.3.10TaylorSwiftByDavidShankbone.jpg/80px-5.3.10TaylorSwiftByDavidShankbone.jpg",
+        "verified_account": false,
+        "oa_provider_id": 16,
+        "provider_name": "Wikipedia",
+        "provider_url": "http://wikipedia.org",
+        "provider_content_group": "other",
+        "particle_stats": {
+            "particle_count": 7,
+            "text_count": 0,
+            "image_count": 7,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 255261,
+        "name": "Taylor+Swift",
+        "url": "http://www.last.fm/music/Taylor+Swift",
+        "handle": "Taylor+Swift",
+        "uid": "20244d07-534f-4eff-b4d4-930878889970",
+        "profile_thumb_url": "http://userserve-ak.last.fm/serve/126/100793511.png",
+        "verified_account": false,
+        "oa_provider_id": 18,
+        "provider_name": "LastFM",
+        "provider_url": "http://last.fm",
+        "provider_content_group": "other",
+        "particle_stats": {
+            "particle_count": 1,
+            "text_count": 0,
+            "image_count": 1,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 418817,
+        "name": "Taylor Swift",
+        "handle": "Taylor Swift",
+        "uid": "47",
+        "oa_provider_id": 20,
+        "provider_name": "upload",
+        "provider_url": "http://openaura.com",
+        "provider_content_group": "curator",
+        "particle_stats": {
+            "particle_count": 0,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 2486416,
+        "name": "OpenAura",
+        "handle": "OpenAura",
+        "uid": "OpenAura",
+        "oa_provider_id": 22,
+        "provider_name": "OpenAura",
+        "provider_url": "http://openaura.com",
+        "provider_content_group": "openaura",
+        "particle_stats": {
+            "particle_count": 0,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 4882503,
+        "name": "Getty Images",
+        "handle": "Getty Images",
+        "uid": "Getty Images",
+        "profile_thumb_url": "http://s3-us-west-2.amazonaws.com/openaura-prod/uploads/cp_profile_pics/53c7f8ed8d43a92e1400005e/small.jpg?1405614317",
+        "verified_account": false,
+        "oa_provider_id": 34,
+        "provider_name": "Getty Images",
+        "provider_url": "http://www.gettyimages.com/",
+        "provider_content_group": "premium",
+        "particle_stats": {
+            "particle_count": 0,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }, {
+        "oa_source_id": 4969114,
+        "name": "Associated Press",
+        "handle": "Associated Press",
+        "uid": "Associated Press",
+        "profile_thumb_url": "http://s3-us-west-2.amazonaws.com/openaura-prod/uploads/cp_profile_pics/53c7fb658d43a96903000060/small.jpg?1405614949",
+        "verified_account": false,
+        "oa_provider_id": 35,
+        "provider_name": "Associated Press",
+        "provider_url": "http://www.apimages.com/",
+        "provider_content_group": "premium",
+        "particle_stats": {
+            "particle_count": 0,
+            "text_count": 0,
+            "image_count": 0,
+            "audio_count": 0,
+            "video_count": 0
+        }
+    }]
+}

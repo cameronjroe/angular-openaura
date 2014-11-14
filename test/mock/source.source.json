@@ -1,0 +1,22 @@
+{
+  "oa_source_id": 145,
+  "name": "taylorswift13",
+  "url": "https://twitter.com/taylorswift13",
+  "handle": "taylorswift13",
+  "uid": "17919972",
+  "profile_thumb_url": "http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl.jpeg",
+  "verified_account": false,
+  "oa_provider_id": 1,
+  "provider_name": "Twitter",
+  "provider_url": "http://twitter.com",
+  "provider_content_group": "other",
+  "follower_count": 46625906,
+  "original_posts_last_30_days": 449,
+  "particle_stats": {
+    "particle_count": 1095,
+    "text_count": 730,
+    "image_count": 365,
+    "audio_count": 0,
+    "video_count": 0
+  }
+}

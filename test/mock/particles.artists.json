@@ -1,0 +1,4562 @@
+{
+  "id": "47",
+  "id_type": "anchor_id",
+  "response_metadata": {
+    "response_id": "19380F77EB68E3DB43375FABD67D1931B31FCE45",
+    "aura_version": "5387d230e4b05cdc63970c64",
+    "timestamp": "2014-11-14T04:11:00.115Z",
+    "reporting_url": "/reporting/aura/artist/47.gif?aura_version=5387d230e4b05cdc63970c64&response_id=19380F77EB68E3DB43375FABD67D1931B31FCE45&api_key=zlA809tV1FCxCb55n5ei0mSmbtHgvpJe"
+  },
+  "total_particles": 100,
+  "next_particles": "/particles/artists/47?id_type=oa:artist_id&limit=100&offset=100",
+  "particles": [
+    {
+      "oa_particle_id": "53b5dbd183ba4d93fa482e1c",
+      "original_post_id": "20244d07-534f-4eff-b4d4-930878889970_profile",
+      "source": {
+        "oa_source_id": 255261,
+        "url": "http://www.last.fm/music/Taylor+Swift",
+        "provider": {
+          "name": "LastFM",
+          "url": "http://last.fm"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2010-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "546570be83ba4da461155019",
+          "type": "image",
+          "url": "http://userserve-ak.last.fm/serve/34/100793511.png",
+          "width": 34,
+          "height": 45,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "546570be83ba4da46115501a",
+          "type": "image",
+          "url": "http://userserve-ak.last.fm/serve/64/100793511.png",
+          "width": 64,
+          "height": 85,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "546570be83ba4da46115501b",
+          "type": "image",
+          "url": "http://userserve-ak.last.fm/serve/126/100793511.png",
+          "width": 126,
+          "height": 168,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "546570be83ba4da46115501c",
+          "type": "image",
+          "url": "http://userserve-ak.last.fm/serve/252/100793511.png",
+          "width": 252,
+          "height": 336,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "546570be83ba4da46115501d",
+          "type": "image",
+          "url": "http://userserve-ak.last.fm/serve/_/100793511/Taylor+Swift+Billboard.png",
+          "width": 500,
+          "height": 667,
+          "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5302523f83ba4d09d352de1e",
+      "original_post_id": "File:StaplesLA.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-09-07T07:31:44.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d79",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/StaplesLA.jpg/266px-StaplesLA.jpg",
+          "width": 266,
+          "height": 600,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d7a",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/f/f9/StaplesLA.jpg",
+          "width": 1237,
+          "height": 2785,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a91f77648adc9008ca2",
+      "original_post_id": "2495588760",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2012-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec958a923317d2ab18dd48",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/66fb2d58-8ac8-45cf-bdd4-ff9d925f60f1/2495588760.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec958a923317d2ab18dd49",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/66fb2d58-8ac8-45cf-bdd4-ff9d925f60f1/2495588760-500.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec958a923317d2ab18dd4a",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/66fb2d58-8ac8-45cf-bdd4-ff9d925f60f1/2495588760-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ec83ba4dfebd12732e",
+      "original_post_id": "176075585",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:35:31.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd12732f",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602698-rp9de1-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd127330",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/blank-space-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 106,
+        "comments": 0,
+        "views": 680
+      }
+    },
+    {
+      "oa_particle_id": "5463584683ba4d4cde066b21",
+      "original_post_id": "102292559340",
+      "text": "I could show you incredible things.\n\nhttp://smarturl.it/BlankSpaceVevo\n\n\n\nEdit credit goes to @dailynarnia",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584683ba4d4cde066b22",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b23",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b24",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b25",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b26",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b27",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584683ba4d4cde066b28",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/de01184e6138188af60fce5dc9d31262/tumblr_neu82mbJgr1rk3uipo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 9983
+      }
+    },
+    {
+      "oa_particle_id": "5464763183ba4dbe980dbc2a",
+      "original_post_id": "e-ORhEE9VVg",
+      "text": "Taylor Swift - Blank Space",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-10T17:05:44.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc2b",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/e-ORhEE9VVg",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc2c",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc2d",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc2e",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc2f",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc30",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc31",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763183ba4dbe980dbc32",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/e-ORhEE9VVg/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 448339,
+        "views": 23510085
+      }
+    },
+    {
+      "oa_particle_id": "54635e4783ba4d89d0067ebc",
+      "original_post_id": "850829595380740708_11830955",
+      "text": "I could show you incredible things.\n\nhttp://smarturl.it/BlankSpaceVevo\n\nEdit credit goes to @dailynarnia",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-10T19:13:33.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4783ba4d89d0067ebd",
+          "type": "image",
+          "url": "http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10808546_796662663713476_971046588_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 946702,
+        "comments": 19378
+      }
+    },
+    {
+      "oa_particle_id": "5464c5ac83ba4db2641065f0",
+      "original_post_id": "10152559606835369",
+      "text": "Knicks.",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-13T04:20:57.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5ac83ba4db2641065f1",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/l/t1.0-9/s75x225/1911693_10152559606835369_7680793270190980156_n.jpg?oh=052469fc1fc26780aec012946bb3bf8d&oe=55170B04",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5ac83ba4db2641065f2",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/l/t1.0-9/p130x130/1911693_10152559606835369_7680793270190980156_n.jpg?oh=89d4745f0c7840517c03e56a2753c3b1&oe=54D332E9",
+          "width": 130,
+          "height": 130,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5ac83ba4db2641065f3",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/l/t1.0-9/1911693_10152559606835369_7680793270190980156_n.jpg?oh=41c246e952ff0335f26f00df1f035f2c&oe=54D7BFB4",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80b83ba4d96160ab373",
+      "original_post_id": "532655535636881408",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T22:05:50.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 475
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabb2",
+      "original_post_id": "532618399462203392",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T19:38:16.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 1674
+      }
+    },
+    {
+      "oa_particle_id": "52682deeab331b4800040343",
+      "original_post_id": "File:RedStLouis.png",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-09-02T07:26:51.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d6c",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/RedStLouis.png",
+          "width": 404,
+          "height": 541,
+          "mime": "png"
+        },
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d6d",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/RedStLouis.png",
+          "width": 404,
+          "height": 541,
+          "mime": "image/png"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a8ef77648adc9008c90",
+      "original_post_id": "2432027661",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2012-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9585923317d2ab18dbf6",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661.jpg",
+          "width": 1280,
+          "height": 1280,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9585923317d2ab18dbf7",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9585923317d2ab18dbf8",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ec83ba4dfebd127336",
+      "original_post_id": "176075133",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:31:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd127337",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602392-m5lkw3-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd127338",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/style-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 59,
+        "comments": 0,
+        "views": 408
+      }
+    },
+    {
+      "oa_particle_id": "5463584583ba4d4cde066b0f",
+      "original_post_id": "102382998565",
+      "text": "naomiswift13:\n\nChasing Taylor through the blank space experience like\n\nOh my God, Nay-Nay.Your pics have been so absurd lately and I completely approve.",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584583ba4d4cde066b10",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_1280.jpg",
+          "width": 640,
+          "height": 427,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b11",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_1280.jpg",
+          "width": 640,
+          "height": 427,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b12",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_500.jpg",
+          "width": 500,
+          "height": 334,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b13",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_400.jpg",
+          "width": 400,
+          "height": 267,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b14",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_250.jpg",
+          "width": 250,
+          "height": 167,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b15",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_100.jpg",
+          "width": 100,
+          "height": 67,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584583ba4d4cde066b16",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/71b6e402ae111e7b97e8867c3990f9da/tumblr_nevn9zFm6r1qelgo2o1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 2850
+      }
+    },
+    {
+      "oa_particle_id": "544e596a83ba4d905147ba4c",
+      "original_post_id": "DqZOcABIgTk",
+      "text": "Taylor Swift - Shake It Off Outtakes Video #8 - The Director",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-10-15T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc3e",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/DqZOcABIgTk",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc3f",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc40",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc41",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc42",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc43",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc44",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763283ba4dbe980dbc45",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/DqZOcABIgTk/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 18415,
+        "views": 2396423
+      }
+    },
+    {
+      "oa_particle_id": "545fcf7483ba4dce94124ce5",
+      "original_post_id": "848252283384688961_11830955",
+      "text": "It's Ella's 18th birthday technically but we all know she's really 300 and knows all the secrets of the universe.\n#ELLAflickerbeat",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-07T05:52:53.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4883ba4d89d0067ec3",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10731854_1503899516544588_1064165026_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 895538,
+        "comments": 15540
+      }
+    },
+    {
+      "oa_particle_id": "5464c5ae83ba4db2641065f6",
+      "original_post_id": "10152558748280369",
+      "text": "The #AmexUNSTAGED app has been out for over 24 hours! Who's downloaded it!? http://smarturl.it/BlankSpaceApp",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T19:53:03.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5ae83ba4db2641065f7",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s75x225/10405246_10152558748280369_2905469527747046412_n.jpg?oh=0fd5835cfe75e8d3d0f7b540d9dc8459&oe=54EC028A",
+          "width": 75,
+          "height": 39,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5ae83ba4db2641065f8",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s130x130/10405246_10152558748280369_2905469527747046412_n.jpg?oh=cfb4881750c75b38c1ff9069ca37cd7b&oe=54D19B65",
+          "width": 130,
+          "height": 68,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5ae83ba4db2641065f9",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/t31.0-8/s720x720/1167367_10152558748280369_2905469527747046412_o.jpg",
+          "width": 720,
+          "height": 378,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80b83ba4d96160ab37f",
+      "original_post_id": "532619968647815168",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T19:44:30.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 317
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabb6",
+      "original_post_id": "532569842294198272",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T16:25:19.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 2034
+      }
+    },
+    {
+      "oa_particle_id": "52682deeab331b4800040348",
+      "original_post_id": "File:StaplesCenterFearless.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-06-30T09:16:42.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d74",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/ed/StaplesCenterFearless.jpg",
+          "width": 381,
+          "height": 448,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d75",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/ed/StaplesCenterFearless.jpg",
+          "width": 381,
+          "height": 448,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a8cf77648adc9008c84",
+      "original_post_id": "2712761062",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2012-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9582923317d2ab18db09",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/8995e22b-791e-4c60-b051-3b134a030792/2712761062.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9582923317d2ab18db0a",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/8995e22b-791e-4c60-b051-3b134a030792/2712761062-500.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9582923317d2ab18db0b",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/8995e22b-791e-4c60-b051-3b134a030792/2712761062-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ec83ba4dfebd12733b",
+      "original_post_id": "176074840",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:28:45.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd12733c",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602188-m4cv8s-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ec83ba4dfebd12733d",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/out-of-the-woods-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 43,
+        "comments": 0,
+        "views": 345
+      }
+    },
+    {
+      "oa_particle_id": "5463584483ba4d4cde066af9",
+      "original_post_id": "102393684165",
+      "text": "fearlesslyjulii:\n\nI used to work at tim hortons and the baker used to make me magical creations like this donut completely covered in sprinkles.\nI know you want dis taylorswift\n\nWANT WANT WANT NEED.It&#8217;s the perfect pastry, and I don&#8217;t know where I can find it. More importantly I can&#8217;t figure out how to get it now, without getting out of bed.This was cruel, Julii. And yet I am impressed and intrigued.",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584483ba4d4cde066afa",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_1280.jpg",
+          "width": 1280,
+          "height": 1280,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066afb",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_1280.jpg",
+          "width": 1280,
+          "height": 1280,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066afc",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066afd",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066afe",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066aff",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584483ba4d4cde066b00",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/2d5cbaabb8ad794e36cd130698d704ba/tumblr_new9xqcMN41qiqjlro1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 4966
+      }
+    },
+    {
+      "oa_particle_id": "5436ac7583ba4d974d2fbccb",
+      "original_post_id": "s8h0tZy0HqA",
+      "text": "Taylor Swift - Shake It Off Outtakes Video #7 - The Band, The Fans and The Extras",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-10-08T04:00:02.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc51",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/s8h0tZy0HqA",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc52",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc53",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc54",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc55",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc56",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc57",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc58",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/s8h0tZy0HqA/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 19647,
+        "views": 1615369
+      }
+    },
+    {
+      "oa_particle_id": "545c39d983ba4d282703f891",
+      "original_post_id": "848167425878717001_11830955",
+      "text": "You've got to fight for your right to PARTY.\n#Japan",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-07T03:04:17.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4883ba4d89d0067ec7",
+          "type": "video",
+          "url": "http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/10731725_580902885389030_950959011_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 576041,
+        "comments": 17856
+      }
+    },
+    {
+      "oa_particle_id": "5464c5af83ba4db2641065fb",
+      "original_post_id": "10152556388735369",
+      "text": "Watch #BLANKSPACEMUSICVIDEO in the #AmexUNSTAGED app by American Express - it is even better!!! Download it on iTunes and Google Play for free. smarturl.it/BlankSpaceApp",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T13:40:20.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5af83ba4db2641065fc",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s75x225/10305418_10152556388735369_4179328895831802725_n.jpg?oh=81a6f06b4b598e663ed2847e6ac62c43&oe=54EB9D8A&__gda__=1427830363_216805e6e8f1451d18f59e699e8b4c50",
+          "width": 75,
+          "height": 39,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5af83ba4db2641065fd",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s130x130/10305418_10152556388735369_4179328895831802725_n.jpg?oh=9eb9e8a1c7229cffe88be2a0d3b3df92&oe=54E22765&__gda__=1423522972_4ea62cf580ba0fffb4246953c780626a",
+          "width": 130,
+          "height": 68,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5af83ba4db2641065fe",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/s720x720/1974093_10152556388735369_4179328895831802725_o.jpg",
+          "width": 720,
+          "height": 378,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80b83ba4d96160ab386",
+      "original_post_id": "532323368012222465",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T00:05:55.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 912
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabba",
+      "original_post_id": "532405165417328640",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T05:30:57.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 4566
+      }
+    },
+    {
+      "oa_particle_id": "52682dedab331b480004033e",
+      "original_post_id": "File:FearlessPrudentialCentMay2010.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-06-30T08:55:28.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d69",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FearlessPrudentialCentMay2010.jpg/346px-FearlessPrudentialCentMay2010.jpg",
+          "width": 346,
+          "height": 600,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d6a",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/1/1d/FearlessPrudentialCentMay2010.jpg",
+          "width": 412,
+          "height": 713,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a8bf77648adc9008c7e",
+      "original_post_id": "1803109213",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2012-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9581923317d2ab18da92",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/e213175f-dfcb-42a8-986f-3452c44214c2/1803109213.jpg",
+          "width": 2700,
+          "height": 2700,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9581923317d2ab18da93",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/e213175f-dfcb-42a8-986f-3452c44214c2/1803109213-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9581923317d2ab18da94",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/e213175f-dfcb-42a8-986f-3452c44214c2/1803109213-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ed83ba4dfebd127340",
+      "original_post_id": "176074741",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:27:28.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd127341",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602118-m4fqv3-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd127342",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/all-you-had-to-do-was-stay-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 63,
+        "comments": 0,
+        "views": 541
+      }
+    },
+    {
+      "oa_particle_id": "545fcf1d83ba4da4b112486d",
+      "original_post_id": "101990093480",
+      "text": "It&#8217;s Ella&#8217;s 18th birthday technically but we all know she&#8217;s really 300 and knows all the secrets of the universe.\n#ELLAflickerbeat",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584783ba4d4cde066b3b",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b3c",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b3d",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b3e",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b3f",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b40",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b41",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/1ab3f476248afd97cb8ffc1614ffe69b/tumblr_nenn06TX9u1rk3uipo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 13324
+      }
+    },
+    {
+      "oa_particle_id": "5430b31083ba4d1bdf0370d8",
+      "original_post_id": "bs5SZOHowHI",
+      "text": "Shake It Off Outtakes Video #6 - The Ribbon Dancers (Behind The Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-10-01T04:01:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc69",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/bs5SZOHowHI",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc6a",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc6b",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc6c",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc6d",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc6f",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc70",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc71",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/bs5SZOHowHI/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 17548,
+        "views": 1202544
+      }
+    },
+    {
+      "oa_particle_id": "545c39da83ba4d282703f8a0",
+      "original_post_id": "847289086964068685_11830955",
+      "text": "The last time an album sold as many copies as 1989 did first week, it was 2002, I was 12, and going through my 'braids phase'.\n#nofilternecessary",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-05T21:59:11.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4983ba4d89d0067ecd",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/1515790_866595500040215_824791676_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 782177,
+        "comments": 26951
+      }
+    },
+    {
+      "oa_particle_id": "546058cb83ba4d9dff16ca0c",
+      "original_post_id": "10152547781670369",
+      "text": "It's Ella's 18th birthday technically but we all know she's really 300 and knows all the secrets of the universe. #ELLAflickerbeat",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-07T18:02:02.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5af83ba4db2641065ff",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/s75x225/1486619_10152547781670369_7008451079464226269_n.png?oh=d8b42794a9842073304c5913bd884e9e&oe=551DCEA3&__gda__=1424430660_17dc316956f783e8e625ff1e48da8991",
+          "width": 75,
+          "height": 74,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5af83ba4db264106600",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/s130x130/1486619_10152547781670369_7008451079464226269_n.png?oh=f111dafef67e993538275d5545a350c3&oe=54E358A5&__gda__=1424869033_6ba60bdd67655c77940e37e52275d66d",
+          "width": 130,
+          "height": 129,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5af83ba4db264106601",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1486619_10152547781670369_7008451079464226269_n.png?oh=4506571b7e81fb4fac002c1774293fa3&oe=54E521F9&__gda__=1423478862_25dfb40cec5d9e8215bee1836c0f04ef",
+          "width": 549,
+          "height": 548,
+          "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80b83ba4d96160ab38f",
+      "original_post_id": "532319262937853953",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T23:49:36.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 399
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabbe",
+      "original_post_id": "532392102181998594",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T04:39:03.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 7808
+      }
+    },
+    {
+      "oa_particle_id": "544e597783ba4d7d6147c315",
+      "original_post_id": "File:Swift performs in St. Louis, Missouri in 2013.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-06-21T05:56:33.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d7e",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/0/0c/Swift_performs_in_St._Louis%2C_Missouri_in_2013.jpg",
+          "width": 389,
+          "height": 537,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "54637cb883ba4dfbe8072d7f",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/0/0c/Swift_performs_in_St._Louis%2C_Missouri_in_2013.jpg",
+          "width": 389,
+          "height": 537,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a88f77648adc9008c6c",
+      "original_post_id": "3551125474",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2010-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec957b923317d2ab18d8be",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/811f81ec-fa09-35a5-bf18-4c363f881698/3551125474.jpg",
+          "width": 720,
+          "height": 720,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957b923317d2ab18d8bf",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/811f81ec-fa09-35a5-bf18-4c363f881698/3551125474-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957b923317d2ab18d8c0",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/811f81ec-fa09-35a5-bf18-4c363f881698/3551125474-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ed83ba4dfebd127345",
+      "original_post_id": "176074730",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:27:23.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd127346",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602113-37ikjd-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd127347",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/shake-it-off-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 51,
+        "comments": 0,
+        "views": 296
+      }
+    },
+    {
+      "oa_particle_id": "545fcf1d83ba4da4b1124863",
+      "original_post_id": "102088400395",
+      "text": "\n@kelrottman3: MATTY HEALY IS TAYLOR SWIFT AF #1989\n\n\nWHATWHATWHATWHAT",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584783ba4d4cde066b2b",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_1280.jpg",
+          "width": 600,
+          "height": 800,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b2c",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_1280.jpg",
+          "width": 600,
+          "height": 800,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b2d",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_500.jpg",
+          "width": 500,
+          "height": 667,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b2e",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_400.jpg",
+          "width": 400,
+          "height": 534,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b2f",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_250.jpg",
+          "width": 250,
+          "height": 334,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b31",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_100.jpg",
+          "width": 100,
+          "height": 133,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584783ba4d4cde066b32",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/59d895fd6727757ef8b49564d1622132/tumblr_nepf8reU7E1rhso6ko1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 15027
+      }
+    },
+    {
+      "oa_particle_id": "5430b31183ba4d1bdf03718a",
+      "original_post_id": "70Ps-GzbSfw",
+      "text": "Shake It Off Outtakes Video #5 - The Twerkers and Finger Tutting (Behind-The-Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-09-24T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc80",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/70Ps-GzbSfw",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc81",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc82",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc83",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc84",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc85",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc86",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763383ba4dbe980dbc87",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/70Ps-GzbSfw/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 25577,
+        "views": 2735692
+      }
+    },
+    {
+      "oa_particle_id": "545c39db83ba4d282703f8b0",
+      "original_post_id": "846743658665276379_11830955",
+      "text": "Industry experts predicted 1989 would sell 650k first week.\nYou went and bought 1.287 million albums. \nAND IT'S GOT ME LIKE:",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-05T03:55:31.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4983ba4d89d0067ecf",
+          "type": "video",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/10748361_1497011440572997_449403043_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 861861,
+        "comments": 66284
+      }
+    },
+    {
+      "oa_particle_id": "545c43a683ba4d34da043ef1",
+      "original_post_id": "10152545709625369",
+      "text": "Taylor is nominated for THREE People's Choice Awards and it's up to YOU to vote for the winner! Vote here: http://smarturl.it/TSPeoplesChoice",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-07T03:00:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5b183ba4db264106603",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s75x225/10712933_10152545709625369_2740554097043087552_n.jpg?oh=18950f4abc12e6f329f650c0e0e4e8d0&oe=54E87E0A",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5b183ba4db264106604",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p130x130/10712933_10152545709625369_2740554097043087552_n.jpg?oh=da56649224c35a88b4c5a44645fa7a82&oe=54E94DA4",
+          "width": 130,
+          "height": 130,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5b183ba4db264106605",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10712933_10152545709625369_2740554097043087552_n.jpg?oh=b9976a9be55e37e3c0c86af8d28d3a36&oe=551743FC",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab395",
+      "original_post_id": "532316436148924416",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T23:38:23.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 917
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabc2",
+      "original_post_id": "532379470825783296",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": true,
+      "date": "2014-11-12T03:48:51.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 3496
+      }
+    },
+    {
+      "oa_particle_id": "5458342e83ba4d839d01ccdc",
+      "original_post_id": "File:TaylorSwiftApr09.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2011-01-26T16:09:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "545c3aa983ba4d2827040886",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/e8/TaylorSwiftApr09.jpg",
+          "width": 333,
+          "height": 499,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "545c3aa983ba4d2827040887",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/e/e8/TaylorSwiftApr09.jpg",
+          "width": 333,
+          "height": 499,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a87f77648adc9008c66",
+      "original_post_id": "1348943522",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2010-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9579923317d2ab18d7eb",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/b5e2fc4f-ae51-3a32-9a5a-31224a91807d/1348943522.jpg",
+          "width": 496,
+          "height": 495,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9579923317d2ab18d7ec",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/b5e2fc4f-ae51-3a32-9a5a-31224a91807d/1348943522-500.jpg",
+          "width": 496,
+          "height": 495,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9579923317d2ab18d7ed",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/b5e2fc4f-ae51-3a32-9a5a-31224a91807d/1348943522-250.jpg",
+          "width": 250,
+          "height": 249,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ed83ba4dfebd12734a",
+      "original_post_id": "176073992",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:20:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd12734b",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096601618-p0ovbr-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ed83ba4dfebd12734c",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/i-wish-you-would-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 42,
+        "comments": 0,
+        "views": 337
+      }
+    },
+    {
+      "oa_particle_id": "545c370083ba4d397603ed50",
+      "original_post_id": "101782507480",
+      "text": "Hi, Tokyo!",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b5e",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b5f",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b60",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b61",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b62",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b63",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584a83ba4d4cde066b64",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/82ca34e75fb90e617093cc0166fb0e4d/tumblr_nej803p8zX1rk3uipo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 5017
+      }
+    },
+    {
+      "oa_particle_id": "542204df6f93abffaf0defa4",
+      "original_post_id": "vMWpIfxvnWo",
+      "text": "Taylor Swift - Shake It Off Outtakes Video #4 - The Animators (Behind The Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-09-17T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc89",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/vMWpIfxvnWo",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8a",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8b",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8c",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8d",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8e",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc8f",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc90",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/vMWpIfxvnWo/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 25393,
+        "views": 2285070
+      }
+    },
+    {
+      "oa_particle_id": "545c39dc83ba4d282703f8c0",
+      "original_post_id": "846523665809863408_11830955",
+      "text": "Hi, Tokyo!",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-04T20:38:26.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4983ba4d89d0067ed3",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10802776_850629371638360_1176641796_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 670929,
+        "comments": 11383
+      }
+    },
+    {
+      "oa_particle_id": "545c43a883ba4d34da043ef7",
+      "original_post_id": "10152542985765369",
+      "text": "Taylor just crossed 13 MILLION followers on Instagram! Make sure you're following her so you don't miss out on any more great moments. http://instagram.com/taylorswift",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-06T03:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5b283ba4db264106606",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/s75x225/10600493_10152542985765369_2925773633206636790_n.jpg?oh=dfcd17ee213b2664e69dd109a0db0057&oe=551E0235&__gda__=1423435710_a0e22bdd2ee8b4d3dd7c16a36aaa9c62",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5b283ba4db264106607",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/p130x130/10600493_10152542985765369_2925773633206636790_n.jpg?oh=e8f53a1fbe80f63cd5a77061297b9b5a&oe=551C309B&__gda__=1423635909_740ef75211b92b1d12dbf94a37f3c422",
+          "width": 130,
+          "height": 130,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c5b283ba4db264106608",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/p720x720/10600493_10152542985765369_2925773633206636790_n.jpg?oh=8be8a775ef63f2a17ac8c39eb42658f1&oe=54EC3169&__gda__=1424938807_a0b4992a05dc8eff6a20f994757e3b6f",
+          "width": 720,
+          "height": 720,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab399",
+      "original_post_id": "532314737694867457",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T23:31:38.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 352
+      }
+    },
+    {
+      "oa_particle_id": "5463e64b83ba4d54600aabc6",
+      "original_post_id": "532335492684316672",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T00:54:06.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 5420
+      }
+    },
+    {
+      "oa_particle_id": "51c0f4ef8ed7dffd0f00c42b",
+      "original_post_id": "File:5.3.10TaylorSwiftByDavidShankbone.jpg",
+      "text": "",
+      "source": {
+        "oa_source_id": 4127445,
+        "url": "http://en.wikipedia.org/wiki/Taylor_Swift",
+        "provider": {
+          "name": "Wikipedia",
+          "url": "http://wikipedia.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2010-11-24T21:38:09.000Z",
+      "media": [
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d66",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/5.3.10TaylorSwiftByDavidShankbone.jpg/480px-5.3.10TaylorSwiftByDavidShankbone.jpg",
+          "width": 480,
+          "height": 600,
+          "mime": "jpg"
+        },
+        {
+          "oa_media_id": "54637cb783ba4dfbe8072d67",
+          "type": "image",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/0/0a/5.3.10TaylorSwiftByDavidShankbone.jpg",
+          "width": 2003,
+          "height": 2504,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "views": 1
+      }
+    },
+    {
+      "oa_particle_id": "51a53a85f77648adc9008c60",
+      "original_post_id": "1940791795",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2010-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9578923317d2ab18d754",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/2dd27827-1757-49aa-b761-961f83c7067b/1940791795.jpg",
+          "width": 1000,
+          "height": 1000,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9578923317d2ab18d755",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/2dd27827-1757-49aa-b761-961f83c7067b/1940791795-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9578923317d2ab18d756",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/2dd27827-1757-49aa-b761-961f83c7067b/1940791795-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ee83ba4dfebd12734f",
+      "original_post_id": "176073777",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:18:02.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ee83ba4dfebd127350",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096601467-r8vxxr-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ee83ba4dfebd127351",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/this-love",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 36,
+        "comments": 0,
+        "views": 271
+      }
+    },
+    {
+      "oa_particle_id": "545c36ff83ba4d397603ed46",
+      "original_post_id": "101872520010",
+      "text": "The last time an album sold as many copies as 1989 did first week, it was 2002, I was 12, and going through my &#8216;braids phase&#8217;.\n#nofilternecessary",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584983ba4d4cde066b56",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b57",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b58",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b59",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b5a",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b5b",
+          "type": "image",
+          "url": "http://31.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584983ba4d4cde066b5c",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/7cc95ec2a23e43d0d8142ba52ffa4dc6/tumblr_nel6eogTVd1rk3uipo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 12775
+      }
+    },
+    {
+      "oa_particle_id": "542204e06f93abffaf0df1c7",
+      "original_post_id": "kY-_D-IptZE",
+      "text": "Taylor Swift - Shake It Off Outtakes Video #2 - The Ballerinas (Behind The Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-09-12T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca4",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/kY-_D-IptZE",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca5",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca6",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca7",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca8",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbca9",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcaa",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcab",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/kY-_D-IptZE/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 25620,
+        "views": 3389245
+      }
+    },
+    {
+      "oa_particle_id": "5457f58b83ba4d469912cb10",
+      "original_post_id": "845083602030883683_11830955",
+      "text": "My mom just texted me this from Wal Mart.",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-02T20:57:17.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4a83ba4d89d0067ed7",
+          "type": "image",
+          "url": "http://scontent-a.cdninstagram.com/hphotos-xap1/t51.2885-15/10735044_1501946256751586_1277944353_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 739096,
+        "comments": 13759
+      }
+    },
+    {
+      "oa_particle_id": "545c43ab83ba4d34da043efd",
+      "original_post_id": "10152542889375369",
+      "text": "The last time an album sold as many copies as 1989 did first week, it was 2002, I was 12, and going through my 'braids phase'. #nofilternecessary",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-05T22:03:41.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5b283ba4db264106609",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/s75x225/10390023_10152542889375369_6865671559854900905_n.png?oh=45dbb9ed72cc2b0fd662acf7ccb6c606&oe=54D4DC94&__gda__=1424355647_1d5b5a468e7cdc48fe04d8a1e505bcd9",
+          "width": 75,
+          "height": 76,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b283ba4db26410660a",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/s130x130/10390023_10152542889375369_6865671559854900905_n.png?oh=53a9ba7a1ac04a0fd4b71aeb5c2df591&oe=54D2E87B&__gda__=1423163501_6812abd278a650858068447cd9ae0344",
+          "width": 127,
+          "height": 130,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b283ba4db26410660b",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10390023_10152542889375369_6865671559854900905_n.png?oh=6b3163c4b822012bd5fafaace75116f9&oe=54D45C62&__gda__=1423812893_c233ab0ce5c69710bfd9cd8d5f2035fd",
+          "width": 536,
+          "height": 550,
+          "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab39f",
+      "original_post_id": "532313485367992322",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T23:26:39.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 460
+      }
+    },
+    {
+      "oa_particle_id": "5463e64c83ba4d54600aabca",
+      "original_post_id": "532334383857152000",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T00:49:42.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 1728
+      }
+    },
+    {
+      "oa_particle_id": "51a53a89f77648adc9008c72",
+      "original_post_id": "3903303416",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2009-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec957d923317d2ab18d963",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/85688d8c-1767-4826-a120-b75bc98f7a10/3903303416.jpg",
+          "width": 600,
+          "height": 600,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957d923317d2ab18d964",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/85688d8c-1767-4826-a120-b75bc98f7a10/3903303416-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957d923317d2ab18d965",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/85688d8c-1767-4826-a120-b75bc98f7a10/3903303416-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ee83ba4dfebd127354",
+      "original_post_id": "176073771",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:18:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ee83ba4dfebd127355",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096602955-ns0d83-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ee83ba4dfebd127356",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/wildest-dreams",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 39,
+        "comments": 0,
+        "views": 262
+      }
+    },
+    {
+      "oa_particle_id": "545c36ff83ba4d397603ed3c",
+      "original_post_id": "101901482025",
+      "text": "I was on a hike a few days ago and ran into this little girl and her family there taking Christmas card photos, so we posed for one!! Aw this makes me all happy.",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584883ba4d4cde066b4e",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b4f",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b50",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_500.jpg",
+          "width": 500,
+          "height": 333,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b51",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_400.jpg",
+          "width": 400,
+          "height": 266,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b52",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_250.jpg",
+          "width": 250,
+          "height": 167,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b53",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_100.jpg",
+          "width": 100,
+          "height": 67,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b54",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/7328f743bd808c9da43801219e47b456/tumblr_nej7c4rgOp1qfoj4do1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 23748
+      }
+    },
+    {
+      "oa_particle_id": "542204e06f93abffaf0df114",
+      "original_post_id": "TEpTNFHHjNg",
+      "text": "Taylor Swift - Shake It Off Outtakes Video #1 - The Cheerleaders (Behind The Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-09-12T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc9b",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/TEpTNFHHjNg",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc9c",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc9d",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc9e",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc9f",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbca0",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbca1",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbca2",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/TEpTNFHHjNg/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 35047,
+        "views": 3882615
+      }
+    },
+    {
+      "oa_particle_id": "5457f58c83ba4d469912cb1a",
+      "original_post_id": "844978309372506580_11830955",
+      "text": "A casual Saturday night with @abigail_lauren and @lilyaldridge. #TS1989",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-02T17:28:05.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4a83ba4d89d0067edb",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/915605_295200187340309_1093262411_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 795030,
+        "comments": 10350
+      }
+    },
+    {
+      "oa_particle_id": "545c43b083ba4d34da043f02",
+      "original_post_id": "10152539609815369",
+      "text": "Want pre-sale codes for #The1989WorldTour?? Sign up for the Taylor Swift e-mail list NOW!! http://www2.taylorswift.com/mailing-list/",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-05T02:00:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5b583ba4db26410660c",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s75x225/10313669_10152539609815369_7214928466087683021_n.png?oh=7eac9d818d63a9037090177962346553&oe=55182B75",
+          "width": 75,
+          "height": 85,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b583ba4db26410660d",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s130x130/10313669_10152539609815369_7214928466087683021_n.png?oh=1f7a47959a3f09fcbce0c91af31fb4d9&oe=54D5E09A",
+          "width": 114,
+          "height": 130,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b583ba4db26410660e",
+          "type": "image",
+          "url": "https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10313669_10152539609815369_7214928466087683021_n.png?oh=5beabb13bd36fad216197d293cac811a&oe=55195883",
+          "width": 600,
+          "height": 683,
+          "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab3a5",
+      "original_post_id": "532311126659170305",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T23:17:17.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 740
+      }
+    },
+    {
+      "oa_particle_id": "5463e64c83ba4d54600aabcf",
+      "original_post_id": "532333843718877184",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-12T00:47:33.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 1649
+      }
+    },
+    {
+      "oa_particle_id": "51a53a8af77648adc9008c78",
+      "original_post_id": "2094761831",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2008-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec957f923317d2ab18d9fa",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/9e537e38-be89-41db-be3f-f3a31dfa53c5/2094761831.jpg",
+          "width": 600,
+          "height": 600,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957f923317d2ab18d9fb",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/9e537e38-be89-41db-be3f-f3a31dfa53c5/2094761831-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec957f923317d2ab18d9fc",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/9e537e38-be89-41db-be3f-f3a31dfa53c5/2094761831-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ef83ba4dfebd127359",
+      "original_post_id": "176073294",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:13:18.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ef83ba4dfebd12735a",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096601142-gq45bf-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ef83ba4dfebd12735b",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/bad-blood-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 47,
+        "comments": 0,
+        "views": 295
+      }
+    },
+    {
+      "oa_particle_id": "545c36fe83ba4d397603ed32",
+      "original_post_id": "101913858600",
+      "text": "This is cool, I like this.",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5463584883ba4d4cde066b43",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_1280.jpg",
+          "width": 953,
+          "height": 1280,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b44",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_1280.jpg",
+          "width": 953,
+          "height": 1280,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b45",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_500.jpg",
+          "width": 500,
+          "height": 672,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b46",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_400.jpg",
+          "width": 400,
+          "height": 538,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b47",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_250.jpg",
+          "width": 250,
+          "height": 336,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b48",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_100.jpg",
+          "width": 100,
+          "height": 134,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5463584883ba4d4cde066b49",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/84518c5bd72bcb68b28d1b3a0a52d141/tumblr_ne34yaU4Ud1qff1tbo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 14530
+      }
+    },
+    {
+      "oa_particle_id": "542204e06f93abffaf0df06f",
+      "original_post_id": "zdYy6-P_ggQ",
+      "text": "Shake It Off Outtakes Video #3 - The Modern Dancers (Behind The Scenes Video)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-09-12T04:01:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc92",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/zdYy6-P_ggQ",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc93",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc94",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc95",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc96",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc97",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc98",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763483ba4dbe980dbc99",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/zdYy6-P_ggQ/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 23615,
+        "views": 1920090
+      }
+    },
+    {
+      "oa_particle_id": "5457f58c83ba4d469912cb2b",
+      "original_post_id": "844378763814695157_11830955",
+      "text": "Found this on tumblr and thought it was a perfect visual representation of Clean.\n\nTumblr Source: hechooseme",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-01T21:36:54.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4a83ba4d89d0067edf",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10731967_350049011839204_58550101_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 646878,
+        "comments": 6905
+      }
+    },
+    {
+      "oa_particle_id": "545c43b383ba4d34da043f09",
+      "original_post_id": "10152539602280369",
+      "text": "Hi, Tokyo!",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-04T20:48:30.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c5b683ba4db26410660f",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/s75x225/10370447_10152539602280369_1820246881728264785_n.png?oh=1ee995ce25c2685c78642842a0b31a66&oe=551717D7&__gda__=1423472623_3b26e17f0339a03b81f15dfc91c02a29",
+          "width": 75,
+          "height": 74,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b683ba4db264106610",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/s130x130/10370447_10152539602280369_1820246881728264785_n.png?oh=d578602f928508a15bdc172b0fc23582&oe=54EE3C38&__gda__=1423956867_f769d698506564b9653d63fbc504cb26",
+          "width": 130,
+          "height": 129,
+          "mime": "image/png"
+        },
+        {
+          "oa_media_id": "5464c5b683ba4db264106611",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10370447_10152539602280369_1820246881728264785_n.png?oh=724a869f6c3a321c9f1eeb652ae88b9a&oe=54D6D821&__gda__=1423757172_c6f6d6435024ba11a38b3c07560a3951",
+          "width": 578,
+          "height": 577,
+          "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab3af",
+      "original_post_id": "532173229247721473",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T14:09:19.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 499
+      }
+    },
+    {
+      "oa_particle_id": "5463e64c83ba4d54600aabd3",
+      "original_post_id": "532283576315027456",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T21:27:48.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 2271
+      }
+    },
+    {
+      "oa_particle_id": "51a53a85f77648adc9008c5a",
+      "original_post_id": "1940792584",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2008-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9576923317d2ab18d6e8",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/0d741fcf-1210-4b90-a165-d37abdb06511/1940792584.jpg",
+          "width": 1424,
+          "height": 1424,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9576923317d2ab18d6e9",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/0d741fcf-1210-4b90-a165-d37abdb06511/1940792584-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9576923317d2ab18d6ea",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/0d741fcf-1210-4b90-a165-d37abdb06511/1940792584-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5ef83ba4dfebd12735e",
+      "original_post_id": "176073253",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:12:55.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5ef83ba4dfebd12735f",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096601108-q1gm3h-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5ef83ba4dfebd127360",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/how-you-get-the-girl-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 64,
+        "comments": 0,
+        "views": 623
+      }
+    },
+    {
+      "oa_particle_id": "5457d3ed83ba4dd4c810aecf",
+      "original_post_id": "101347263775",
+      "text": "Thank you Good Morning America, thank you to everyone who filled Times Square, thank you New York.\n#TS1989",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed0",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed1",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_1280.jpg",
+          "width": 640,
+          "height": 640,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed2",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed3",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_400.jpg",
+          "width": 400,
+          "height": 400,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed4",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed5",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_100.jpg",
+          "width": 100,
+          "height": 100,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ed83ba4dd4c810aed6",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/f2438dd1c33761934d5eb4ef0c1f3651/tumblr_ne9ns4oGIp1rk3uipo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 8800
+      }
+    },
+    {
+      "oa_particle_id": "5430b31583ba4d1bdf0374f9",
+      "original_post_id": "nfWlot6h_JM",
+      "text": "Taylor Swift - Shake It Off",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-08-18T21:18:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcaf",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/nfWlot6h_JM",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb0",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb1",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb2",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb3",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb4",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb5",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcb6",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/nfWlot6h_JM/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 1623276,
+        "views": 260650461
+      }
+    },
+    {
+      "oa_particle_id": "5457f58d83ba4d469912cb3d",
+      "original_post_id": "843861371560850057_11830955",
+      "text": "I know places....... #TS1989",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-01T04:28:56.000Z",
+      "media": [
+        {
+          "oa_media_id": "5457f58d83ba4d469912cb3e",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10693377_301260523408504_2045820534_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 636142,
+        "comments": 6991
+      }
+    },
+    {
+      "oa_particle_id": "545c44ef83ba4d34da044654",
+      "original_post_id": "10152536295745369",
+      "text": "",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-03T14:01:50.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c62183ba4db264106721",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s75x225/10174910_10152536295745369_248642539086608509_n.jpg?oh=9638fdb4a075679c2973bbca75513b92&oe=5518AA42",
+          "width": 75,
+          "height": 27,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c62183ba4db264106722",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s130x130/10174910_10152536295745369_248642539086608509_n.jpg?oh=5367577d95bee8d6b01e13a664695cf4&oe=54D23144",
+          "width": 130,
+          "height": 48,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c62183ba4db264106723",
+          "type": "image",
+          "url": "https://scontent-b.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s720x720/10174910_10152536295745369_248642539086608509_n.jpg?oh=26d1f5563fdcb4d57e1b3b690d1165a6&oe=54EDCB66",
+          "width": 720,
+          "height": 266,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab3b7",
+      "original_post_id": "532166158947217408",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T13:41:14.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 1741
+      }
+    },
+    {
+      "oa_particle_id": "5463e64c83ba4d54600aabd7",
+      "original_post_id": "532167674663821312",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T13:47:15.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 6514
+      }
+    },
+    {
+      "oa_particle_id": "51a53a83f77648adc9008c4e",
+      "original_post_id": "2900372703",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2008-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9572923317d2ab18d5e0",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/156671ad-34d7-41f6-b9d2-7e910019a3ef/2900372703.jpg",
+          "width": 1500,
+          "height": 1500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9572923317d2ab18d5e1",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/156671ad-34d7-41f6-b9d2-7e910019a3ef/2900372703-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9572923317d2ab18d5e2",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/156671ad-34d7-41f6-b9d2-7e910019a3ef/2900372703-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5f083ba4dfebd127363",
+      "original_post_id": "176073246",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:12:46.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5f083ba4dfebd127364",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096601097-i0q26q-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5f083ba4dfebd127365",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/this-love-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 24,
+        "comments": 0,
+        "views": 197
+      }
+    },
+    {
+      "oa_particle_id": "5457d3ec83ba4dd4c810aead",
+      "original_post_id": "101347935230",
+      "text": "anytruelove:\n\ntaylorswift  and olivia are meerkats\n\n\"Are you slowly becoming your cat? Is your cat slowly becoming you?\"(Questions this post evokes)",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeae",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_500.jpg",
+          "width": 500,
+          "height": 750,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeaf",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_500.jpg",
+          "width": 500,
+          "height": 750,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeb0",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_400.jpg",
+          "width": 400,
+          "height": 600,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeb1",
+          "type": "image",
+          "url": "http://38.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_250.jpg",
+          "width": 250,
+          "height": 375,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeb2",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_100.jpg",
+          "width": 100,
+          "height": 150,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3ec83ba4dd4c810aeb3",
+          "type": "image",
+          "url": "http://33.media.tumblr.com/8fad5cbfef19ab8565db9081727265c9/tumblr_ne9n4wtp8L1tcy89xo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 13493
+      }
+    },
+    {
+      "oa_particle_id": "540aba6783ba4d8323195d3f",
+      "original_post_id": "0iNrY1ixR8I",
+      "text": "Taylor Swift - Red Carpet Interview (2013 AMAs)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-11-27T16:40:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcbc",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/0iNrY1ixR8I",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcbd",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcbe",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcbf",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcc0",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcc1",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcc2",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763583ba4dbe980dbcc3",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/0iNrY1ixR8I/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 9023,
+        "views": 951348
+      }
+    },
+    {
+      "oa_particle_id": "5457f58f83ba4d469912cb54",
+      "original_post_id": "843707436090978367_11830955",
+      "text": "Happy Halloween! Stay safe out there tonight, kids. This has been a message from your friendly neighborhood Pegacorn.",
+      "source": {
+        "oa_source_id": 4552119,
+        "url": "http://instagram.com/taylorswift",
+        "provider": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-10-31T23:23:05.000Z",
+      "media": [
+        {
+          "oa_media_id": "54635e4b83ba4d89d0067ee2",
+          "type": "image",
+          "url": "http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/10729389_532429896859872_824692313_a.jpg",
+          "width": 306,
+          "height": 306,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 799803,
+        "comments": 11196
+      }
+    },
+    {
+      "oa_particle_id": "545c44f283ba4d34da04465f",
+      "original_post_id": "10152536244290369",
+      "text": "",
+      "source": {
+        "oa_source_id": 146,
+        "url": "https://www.facebook.com/TaylorSwift",
+        "provider": {
+          "name": "Facebook",
+          "url": "http://facebook.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-03T13:45:45.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464c62283ba4db264106724",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s75x225/10426192_10152536244290369_2514421868346244589_n.jpg?oh=e897a504cdff0c8de77fb6dcdf49d9a0&oe=54E4E90C&__gda__=1424117725_bd213bbf464279d07fdbd6b9bee90ad1",
+          "width": 75,
+          "height": 27,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c62283ba4db264106725",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s130x130/10426192_10152536244290369_2514421868346244589_n.jpg?oh=810f5884274991aedd13edeb54918332&oe=54D7BEE3&__gda__=1424004634_df938772e06e8128a7f178d62d758776",
+          "width": 130,
+          "height": 48,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464c62283ba4db264106726",
+          "type": "image",
+          "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s720x720/10426192_10152536244290369_2514421868346244589_n.jpg?oh=eac71bbbcc265eb0e8c5dd402636b6d4&oe=55198A11&__gda__=1423792104_2c4fee0ccbc3a8be96a922c61ddf0b6d",
+          "width": 720,
+          "height": 266,
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "oa_particle_id": "5463e80c83ba4d96160ab3bb",
+      "original_post_id": "532165451414265856",
+      "extended_metadata": {
+        "is_retweet": false
+      },
+      "source": {
+        "oa_source_id": 4552117,
+        "url": "https://twitter.com/taylornation13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T13:38:25.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 950
+      }
+    },
+    {
+      "oa_particle_id": "5463e64c83ba4d54600aabdb",
+      "original_post_id": "532167422309322752",
+      "extended_metadata": {
+        "is_retweet": true
+      },
+      "source": {
+        "oa_source_id": 145,
+        "url": "https://twitter.com/taylorswift13",
+        "provider": {
+          "name": "Twitter",
+          "url": "http://twitter.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-11T13:46:15.000Z",
+      "media": [],
+      "popularity": {
+        "retweets": 1740
+      }
+    },
+    {
+      "oa_particle_id": "51a53a82f77648adc9008c48",
+      "original_post_id": "3054552949",
+      "text": "",
+      "source": {
+        "oa_source_id": 14333,
+        "url": "http://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+        "provider": {
+          "name": "MusicBrainz",
+          "url": "http://musicbrainz.org"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2008-01-01T00:00:00.000Z",
+      "media": [
+        {
+          "oa_media_id": "52ec9570923317d2ab18d550",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/51fedf94-1545-453b-8772-7481ab73d255/3054552949.jpg",
+          "width": 588,
+          "height": 588,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9570923317d2ab18d551",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/51fedf94-1545-453b-8772-7481ab73d255/3054552949-500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "52ec9570923317d2ab18d552",
+          "type": "image",
+          "url": "http://coverartarchive.org/release/51fedf94-1545-453b-8772-7481ab73d255/3054552949-250.jpg",
+          "width": 250,
+          "height": 250,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 0
+      }
+    },
+    {
+      "oa_particle_id": "545fd5f083ba4dfebd127368",
+      "original_post_id": "176072819",
+      "text": "",
+      "source": {
+        "oa_source_id": 4998742,
+        "url": "http://soundcloud.com/taylorswiftofficial",
+        "provider": {
+          "name": "SoundCloud",
+          "url": "http://soundcloud.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2014-11-09T14:08:35.000Z",
+      "media": [
+        {
+          "oa_media_id": "545fd5f083ba4dfebd127369",
+          "type": "image",
+          "url": "https://i1.sndcdn.com/artworks-000096600792-t2wh10-t500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "545fd5f083ba4dfebd12736a",
+          "type": "embed",
+          "url": "https://w.soundcloud.com/player/?start_track=true&show_artwork=false&show_playcount=false&show_bpm=false&show_comments=true&buying=false&sharing=false&download=false&url=http://soundcloud.com/taylorswiftofficial/i-know-places-taylors",
+          "width": 300,
+          "height": 300,
+          "mime": ""
+        }
+      ],
+      "popularity": {
+        "favorites": 36,
+        "comments": 0,
+        "views": 200
+      }
+    },
+    {
+      "oa_particle_id": "5457d3e983ba4dd4c810ae97",
+      "original_post_id": "101348984365",
+      "text": "shakeshack:\n\nBright lights, big burger.\n",
+      "source": {
+        "oa_source_id": 4765529,
+        "url": "http://taylorswift.tumblr.com",
+        "provider": {
+          "name": "Tumblr",
+          "url": "http://tumblr.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "1970-01-01T00:33:34.000Z",
+      "media": [
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae98",
+          "type": "image",
+          "url": "http://40.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_1280.jpg",
+          "width": 1280,
+          "height": 960,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae99",
+          "type": "image",
+          "url": "http://40.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_1280.jpg",
+          "width": 1280,
+          "height": 960,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae9a",
+          "type": "image",
+          "url": "http://40.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_500.jpg",
+          "width": 500,
+          "height": 375,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae9b",
+          "type": "image",
+          "url": "http://40.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_400.jpg",
+          "width": 400,
+          "height": 300,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae9c",
+          "type": "image",
+          "url": "http://41.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_250.jpg",
+          "width": 250,
+          "height": 188,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae9d",
+          "type": "image",
+          "url": "http://41.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_100.jpg",
+          "width": 100,
+          "height": 75,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5457d3e983ba4dd4c810ae9e",
+          "type": "image",
+          "url": "http://36.media.tumblr.com/44d90892487631b293fc95ddf698e2d0/tumblr_nao28aSRAz1skjo8uo1_75sq.jpg",
+          "width": 75,
+          "height": 75,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "shares": 7995
+      }
+    },
+    {
+      "oa_particle_id": "540aba6783ba4d8323195d7a",
+      "original_post_id": "3byqLf7_zGg",
+      "text": "Taylor Swift - Artist Of The Year (2013 AMAs)",
+      "source": {
+        "oa_source_id": 4552118,
+        "url": "http://youtube.com/user/taylorswiftvevo",
+        "provider": {
+          "name": "YouTube",
+          "url": "http://youtube.com"
+        }
+      },
+      "oa_artist_id": 47,
+      "profane": false,
+      "date": "2013-11-25T14:41:01.000Z",
+      "media": [
+        {
+          "oa_media_id": "5464763683ba4dbe980dbccb",
+          "type": "embed",
+          "url": "http://www.youtube.com/embed/3byqLf7_zGg",
+          "width": 590,
+          "height": 440,
+          "mime": ""
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbccc",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/default.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbccd",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/mqdefault.jpg",
+          "width": 320,
+          "height": 180,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbcce",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbccf",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbcd0",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/1.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbcd1",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/2.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        },
+        {
+          "oa_media_id": "5464763683ba4dbe980dbcd2",
+          "type": "image",
+          "url": "http://i.ytimg.com/vi/3byqLf7_zGg/3.jpg",
+          "width": 120,
+          "height": 90,
+          "mime": "image/jpeg"
+        }
+      ],
+      "popularity": {
+        "likes": 11591,
+        "views": 702452
+      }
+    }
+  ]
+}

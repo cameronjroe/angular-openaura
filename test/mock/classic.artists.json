@@ -1,0 +1,78 @@
+{
+  "response_metadata": {
+    "response_id": "62B1F6C36F227F06A86950540E8E1950B61226D2",
+    "aura_version": "5387d230e4b05cdc63970c64",
+    "timestamp": "2014-11-14T04:00:47.578Z",
+    "reporting_url": "/reporting/aura/artist/528fde50e4b084ba1571c831.gif?aura_version=5387d230e4b05cdc63970c64&response_id=62B1F6C36F227F06A86950540E8E1950B61226D2&api_key=zlA809tV1FCxCb55n5ei0mSmbtHgvpJe"
+  },
+  "name": "Taylor Swift",
+  "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970",
+  "associated_acts": [],
+  "birthname": "Taylor Alison Swift",
+  "birthdate": "(1989-12-13) December 13, 1989 (age 24)",
+  "birthplace": "Reading, Pennsylvania, U.S.",
+  "labels": [
+    "Big Machine"
+  ],
+  "location_formed": "Pennsylvania",
+  "website": "http://taylorswift.com",
+  "bio": "Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. Raised in Wyomissing, Pennsylvania, Swift moved to Nashville, Tennessee, at the age of 14 to pursue a career in country music. She signed with the independent label Big Machine Records and became the youngest songwriter ever hired by the Sony/ATV Music publishing house. The release of Swift's self-titled debut album in 2006 established her as a country music star. \"Our Song\", her third single, made her the youngest person to single-handedly write and perform a number one song on the Hot Country Songs chart. She received a Best New Artist nomination at the 2008 Grammy Awards.\nSwift's second album, Fearless, was released in 2008. Buoyed by the pop crossover success of the singles \"Love Story\" and \"You Belong with Me\", Fearless became the best-selling album of 2009 in the US. The album won four Grammy Awards, with Swift becoming the youngest ever Album of the Year winner. Swift's third album, 2010's Speak Now, sold over one million copies within the first week of its US release. The album's third single, \"Mean\", won two Grammy Awards. In 2012, Swift released her fourth album, Red. Its opening US sales of 1.2 million were the highest recorded in a decade. The singles \"We Are Never Ever Getting Back Together\" and \"I Knew You Were Trouble\" were worldwide hits. Her fifth album, the pop-focused 1989, was released in 2014 and sold over one million copies in its first week of US release, making Swift the first and only act to have three albums sell more than one million copies in a week. The single \"Shake It Off\" reached number one on the Billboard Hot 100.\nSwift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame. Swift's other achievements include seven Grammy Awards, twelve Billboard Music Awards, eleven Country Music Association Awards and seven Academy of Country Music Awards. To date, she has sold over 30 million albums and 80 million digital single downloads, making her one of the world's best-selling artists of all time. In addition to her music career, Swift has appeared as an actress in the ensemble comedy Valentine's Day (2010), the animated film The Lorax (2012) and The Giver (2014). As a philanthropist, Swift supports arts education, children's literacy, natural disaster relief, LGBT anti-discrimination efforts, and charities for sick children.",
+  "profile_image": {
+    "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10628315_10152372244110369_1144691902671597803_n.jpg?oh=97418f1f1909b7298ffc50c132b6382e&oe=54B71AF3",
+    "width": 180,
+    "height": 180,
+    "mime": "image/jpeg"
+  },
+  "profile_alt_sizes": [
+    {
+      "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s75x225/10628315_10152372244110369_1144691902671597803_n.jpg?oh=cef24e9acbbb4ee6bb5ddd99f19568cf&oe=54BEA805",
+      "width": 75,
+      "height": 75,
+      "mime": "image/jpeg"
+    },
+    {
+      "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/p130x130/10628315_10152372244110369_1144691902671597803_n.jpg?oh=f699de8d3ea617aa8b67a6d7d41a80e4&oe=54C916AB",
+      "width": 130,
+      "height": 130,
+      "mime": "image/jpeg"
+    },
+    {
+      "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10628315_10152372244110369_1144691902671597803_n.jpg?oh=97418f1f1909b7298ffc50c132b6382e&oe=54B71AF3",
+      "width": 180,
+      "height": 180,
+      "mime": "image/jpeg"
+    }
+  ],
+  "artist_images": [
+    {
+      "url": "http://userserve-ak.last.fm/serve/_/100793511/Taylor+Swift+Billboard.png",
+      "width": 500,
+      "height": 667,
+      "mime": "image/png"
+    },
+    {
+      "url": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10628315_10152372244110369_1144691902671597803_n.jpg?oh=97418f1f1909b7298ffc50c132b6382e&oe=54B71AF3",
+      "width": 180,
+      "height": 180,
+      "mime": "image/jpeg"
+    },
+    {
+      "url": "https://scontent-b.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10600617_10152355726850369_7600951273895990608_n.jpg?oh=79d2c38e433202fc4ceb80be6e41cb52&oe=54BB6808",
+      "width": 180,
+      "height": 180,
+      "mime": "image/jpeg"
+    },
+    {
+      "url": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/t31.0-8/p480x480/843100_10151314522845369_884590006_o.jpg",
+      "width": 480,
+      "height": 719,
+      "mime": "image/jpeg"
+    },
+    {
+      "url": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/p720x720/207212_10151072956580369_1530681729_n.jpg?oh=161f83213914c5c6ec181e94953e4e2d&oe=545E1CB7",
+      "width": 720,
+      "height": 720,
+      "mime": "image/jpeg"
+    }
+  ]
+}
