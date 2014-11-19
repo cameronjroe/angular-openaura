@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
+    "grunt-ngdocs": "^0.2.6",
     "karma-chrome-launcher": "^0.1.5",
     "karma-coverage": "^0.2.6",
     "karma-phantomjs-launcher": "^0.1.4"
