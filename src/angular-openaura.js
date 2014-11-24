@@ -101,9 +101,15 @@
                     return this.api('/particles/particle/' + particleId, 'GET', options);
                 };
 
-                OpenAura.prototype.getSourceParticle = function(sourceId, idType) {
+                OpenAura.prototype.getSourceParticle = function(sourceId, idType, params) {
                     var options = {};
                     options.id_type = idType || 'oa:source_id';
+                    if (params && params.offset) {
+                        options.offset = params.offset;
+                    }
+                    if (params && params.limit) {
+                        options.limit = params.limit;
+                    }
 
                     return this.api('/particles/sources/' + sourceId, 'GET', options);
                 };

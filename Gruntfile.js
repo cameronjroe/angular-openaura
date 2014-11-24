@@ -13,6 +13,16 @@ module.exports = function (grunt) {
             dist: 'dist'
         },
 
+        ngdocs: {
+            options: {
+                dest: './docs'
+            },
+            source: {
+                src: 'src/*.js',
+                title: 'angular-openaura Documentation'
+            }
+        },
+
         uglify: {
             options: {
                 banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
