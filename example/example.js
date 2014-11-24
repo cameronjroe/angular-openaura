@@ -11,20 +11,22 @@ angular.module('exampleApp', [
     .controller('ExampleCtrl', ['$scope', 'OpenAura', function ($scope, OpenAura) {
         
         $scope.images = [];
-
+        $scope.isLoading = false;
         $scope.search = function (input) {
             OpenAura.searchAllArtists(input)
                 .then(function (res) {
-                    var artists = res.slice(0, 10);
+                    $scope.isLoading = true;
+                    var artist = res[0];
                     $scope.images = [];
-                    angular.forEach(artists, function (o) {
+                    OpenAura.getArtistClassic(artist.oa_artist_id).then(function (res) {
+                      if (res.profile_image && res.profile_image.url) {
+                          $scope.images.push(res.profile_image.url);
+                      } else if (res.artist_images) {
+                        $scope.images.push(res.artist_images[0].url);
+                      } else {
 
-                        OpenAura.getArtistClassic(o.oa_artist_id).then(function (res) {
-                            if (res.profile_image.url) {
-                                $scope.images.push(res.profile_image.url);
-                            }
-                        });
-                    
+                      }
+                      $scope.isLoading = false;
                     });
                 });
         };
